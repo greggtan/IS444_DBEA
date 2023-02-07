@@ -78,6 +78,7 @@
           content-class="q-gutter-x-sm"
         >
         <q-route-tab name="sentient" label="Stock" exact to="/sentient" />
+           <q-route-tab name="robo" label="Robo Advisor" exact to="/robo" />
            <q-route-tab name="giro" label="Giro" exact to="/giro" />
           
          

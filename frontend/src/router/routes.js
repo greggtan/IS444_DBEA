@@ -7,6 +7,7 @@ const routes = [
       { path: 'sentient', component: () => import('pages/Index.vue') },
       { path: 'giro', component: () => import('pages/GiroPage.vue') },
       { path: 'admin', component: () => import('pages/AdminPage.vue') },
+      { path: 'robo', component: () => import('pages/RoboPage.vue') },
       // { path: 'about', component: () => import('pages/AboutPage.vue') },
       // { path: 'pricing', component: () => import('pages/PricingPage.vue') },
       // { path: 'legal', component: () => import('pages/LegalPage.vue') },
